@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MIKEYMILLE-R
+- 👀 I’m interested in ... Python, SQL and AWS
+- 🌱 I’m currently learning ... Python and JavaScript
